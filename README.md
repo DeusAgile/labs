@@ -29,7 +29,7 @@
 ![image](https://user-images.githubusercontent.com/81421386/192575054-568b93d1-6850-4237-9c59-1f1c1ece0a4f.png)
 ![image](https://user-images.githubusercontent.com/81421386/192575170-95d806d9-dce3-4e97-9add-259560a5b670.png)
 
-Задание 2
+Задание 2  
 ---
 Поставить unity для создания игровых сцен и научиться писать hello world  
 Ход работы
@@ -45,7 +45,7 @@
 ![image](https://user-images.githubusercontent.com/81421386/192577734-6811e227-0882-45fc-8e90-d5a7c680b5a6.png)
 
 
-Задание 3
+Задание 3  
 ---  
 Поработать с кодом python  
 Ход работы

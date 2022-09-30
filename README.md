@@ -52,7 +52,5 @@
 
 Ход работы
 ---  
-Код для расчетов свойств геометрических фигур на python:
 
-[geometry.zip](https://github.com/DeusAgile/labs/files/9657853/geometry.zip)
 
